@@ -6,7 +6,7 @@ function Hero() {
           <div className=" flex justify-between flex-col sm:flex-row items-center ">
             <div className=" w-full bg-[#f5b0bbe8]  border rounded-lg p-5 shadow-lg">
               <h1 className=" font-sushi-one text-4xl my-4 text-[#d95a83]">
-              Welcome to the world of CatHat on Solana! 🍣:
+              Welcome to the world of CatHat on Solana! :
               </h1>
 
               <p className="font-sushi-one text-xl text-black">
@@ -36,21 +36,21 @@ function Hero() {
               </div>
               <div className="relative z-40 flex items-center justify-start my-4 max-sm:flex-col max-sm:space-y-4 sm:space-x-5">
                 <a
-                  href="https://www.dextools.io/app/en/solana/pair-explorer/FJky1Wejuou2Gr9bB16tiNiWjNCBLg7crZ9s9mttE58w?t=1710608652588"
+                  href="#"
                   target="_blank"
                   className="py-2 text-base uppercase font-sushi-one px-10 rounded-full bg-gradient-to-b from-[#000000] to-[#2B0000] shadow-lg shadow-black/40 text-white  font-bold border border-white"
                 >
-                  buy now
+                 twitter
                 </a>
                 <a
-                  href="https://t.me/sushicatso" target="_blank"
+                  href="https://t.me/cathatso" target="_blank"
                   className="text-base py-2 uppercase font-sushi-one px-10 rounded-full bg-gradient-to-b from-[#e47369] to-[#f1a3ff] shadow-lg shadow-black/40 text-black  font-bold border border-yellow"
                 >
                   join telegram
                 </a>
 
                 <a
-                  href="https://www.dextools.io/app/en/solana/pair-explorer/FJky1Wejuou2Gr9bB16tiNiWjNCBLg7crZ9s9mttE58w?t=1710608652588"
+                  href="#"
                   target="_blank"
                   className="py-2 text-base uppercase font-sushi-one px-10 rounded-full bg-gradient-to-b from-[#000000] to-[#2B0000] shadow-lg shadow-black/40 text-white  font-bold border border-white"
                 >
