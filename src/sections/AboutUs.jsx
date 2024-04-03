@@ -14,7 +14,7 @@ function AboutUs() {
             Join our community
           </h1>
           <p className="text-lg font-medium text-[white] text-center p-2">
-              By Buying FrogNinja, you become a part of the community. You're not just a fan, <br />you're a support
+              By Buying CatHat, you become a part of the community. You're not just a fan, <br />you're a support
               , a patron, apart of the creator's journey.
             </p>
         </div>
