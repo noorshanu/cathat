@@ -17,16 +17,16 @@ const Intro = () => {
         CatHat: The cutest meme coin on Solana, serving up sushi-inspired crypto fun!
         </p>
            <h1 className=" text-2xl py-3  font-sushi-one text-black  font-medium">
-           1. Sushi NFTs: Dive into a world of digital sushi art with our exclusive collection of Sushi NFTs. Rare and delicious – just like the real thing!
+           1. CatHat NFTs: Dive into a world of digital sushi art with our exclusive collection of CatHat NFTs. Rare and delicious – just like the real thing!
            </h1>
 
            <h1 className=" text-2xl py-3 font-sushi-one  text-black font-medium">
-           2. Trading Bot: Our trading bot helps you navigate the crypto market while you enjoy your sushi. Never miss out on the hottest trends again!
+           2. Trading Bot: Our trading bot helps you navigate the crypto market while you enjoy your CatHat. Never miss out on the hottest trends again!
 
            </h1>
 
            <h1 className=" text-2xl py-3 font-sushi-one text-black font-medium">
-           3. 24/7 Growing Community: Join our expanding community and let's grow together while munching on sushi!
+           3. 24/7 Growing Community: Join our expanding community and let's grow together while munching onCatHat!
            </h1>
           </div>
 
