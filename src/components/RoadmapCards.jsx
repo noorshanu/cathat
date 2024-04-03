@@ -32,34 +32,22 @@ function RoadmapCards() {
       >
       
           <SwiperSlide >
-          <img src="images/suchicat1.jpeg" alt="" className=" rounded-xl border-black border" />
+          <img src="images/logo.png" alt="" className=" rounded-xl border-black border" />
             
           </SwiperSlide>
 
           <SwiperSlide >
-          <img src="images/suchicat3.jpeg" alt="" className=" rounded-xl border-black border m-4" />
+          <img src="images/susi.png" alt="" className=" rounded-xl border-black border m-4" />
             
           </SwiperSlide>
 
           <SwiperSlide >
-          <img src="images/suchicat4.jpeg" alt="" className=" rounded-xl border-black border m-4" />
+          <img src="images/hero.png" alt="" className=" rounded-xl border-black border m-4" />
             
           </SwiperSlide>
 
-          <SwiperSlide >
-          <img src="images/suchicat5.jpeg" alt="" className=" rounded-xl border-black border m-4" />
-            
-          </SwiperSlide>
+         
 
-          <SwiperSlide >
-          <img src="images/suchicat6.jpeg" alt="" className=" rounded-xl border-black border m-4" />
-            
-          </SwiperSlide>
-
-          <SwiperSlide >
-          <img src="images/suchicat7.jpeg" alt="" className=" rounded-xl border-black border m-4" />
-            
-          </SwiperSlide>
    
       </Swiper>
 

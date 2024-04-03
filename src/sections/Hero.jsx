@@ -6,21 +6,21 @@ function Hero() {
           <div className=" flex justify-between flex-col sm:flex-row items-center ">
             <div className=" w-full bg-[#f5b0bbe8]  border rounded-lg p-5 shadow-lg">
               <h1 className=" font-sushi-one text-4xl my-4 text-[#d95a83]">
-              Welcome to the world of Sushi Cat on Solana! 🍣:
+              Welcome to the world of CatHat on Solana! 🍣:
               </h1>
 
               <p className="font-sushi-one text-xl text-black">
                The purrfect blend
-                of Japanese charm, meme magic, and delicious crypto goodness!  Sushi Cat isn't just your ordinary feline;
+                of Japanese charm, meme magic, and delicious crypto goodness!  CatHat isn't just your ordinary feline;
               </p>
 
               <p className=" font-sushi-one text-xl text-black py-1">
                This adorable kitty
                 is on a mission to satisfy appetites and make holders grow
-                bigger than a sumo wrestler on a sushi binge! With each tasty
-                morsel devoured, Sushi Cat's hunger grows, and so does the
+                bigger than a sumo wrestler on a Hat binge! With each tasty
+                morsel devoured, CatHat's hunger grows, and so does the
                 community's excitement! Join our vibrant community of food
-                lovers, crypto enthusiasts, and sushi cat meme fans for a
+                lovers, crypto enthusiasts, and CatHat meme fans for a
                 purrfectly fun ride!
               </p>
 

@@ -14,7 +14,7 @@ function MemeMark() {
             />
 
             <h2 className="text-2xl text-center px-1 font-sushi-one ">
-              SUSHI CAT
+              CatHat
             </h2>
 
             <img
@@ -30,7 +30,7 @@ function MemeMark() {
             />
 
             <h2 className="text-2xl text-center px-1 font-sushi-one ">
-              SUSHI CAT
+              CatHat
             </h2>
 
             <img
@@ -46,7 +46,7 @@ function MemeMark() {
             />
 
             <h2 className="text-2xl text-center px-1 font-sushi-one ">
-              SUSHI CAT
+              CatHat
             </h2>
 
             <img
@@ -62,7 +62,7 @@ function MemeMark() {
             />
 
             <h2 className="text-2xl text-center px-1 font-sushi-one ">
-              SUSHI CAT
+              CatHat
             </h2>
 
             <img
@@ -78,7 +78,7 @@ function MemeMark() {
             />
 
             <h2 className="text-2xl text-center px-1 font-sushi-one ">
-              SUSHI CAT New ATH
+              CatHat New ATH
             </h2>
 
             <img
@@ -110,7 +110,7 @@ function MemeMark() {
             />
 
             <h2 className="text-2xl text-center px-1 font-sushi-one ">
-              SUSHI CAT
+              CatHat
             </h2>
 
             <img
@@ -129,7 +129,7 @@ function MemeMark() {
             />
 
             <h2 className="text-2xl text-center px-1 font-sushi-one ">
-              SUSHI CAT
+              CatHat
             </h2>
 
             <img
@@ -148,7 +148,7 @@ function MemeMark() {
             />
 
             <h2 className="text-2xl text-center px-1 font-sushi-one ">
-              SUSHI CAT
+              CatHat
             </h2>
 
             <img
@@ -166,7 +166,7 @@ function MemeMark() {
             />
 
             <h2 className="text-2xl text-center px-1 font-sushi-one ">
-              SUSHI CAT
+              CatHat
             </h2>
 
             <img

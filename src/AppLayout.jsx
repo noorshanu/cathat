@@ -37,20 +37,20 @@ function AppLayout() {
                 alt=""
               />
 
-              <p className=" text-2xl font-sushi-one">Sushi Cat</p>
+              <p className=" text-2xl font-sushi-one">CatHat</p>
             
             </div>
           
 
             <div className="mt-8  flex justify-center flex-col sm:flex-row items-center space-x-6">
             <div>
-               <p className="font-sushi-one">Copyright 2024 SUSHICAT. All Rights Reserved.</p>
+               <p className="font-sushi-one">Copyright 2024 CatHat. All Rights Reserved.</p>
             </div>
               <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
                 <a target="_blank" href="https://twitter.com/SushiiCatt5">
                   <FaTwitter />
                 </a>
-                <a target="_blank" href="https://t.me/sushicatso">
+                <a target="_blank" href="https://t.me/CatHatso">
                   <FaTelegram />
                 </a>
               </div>

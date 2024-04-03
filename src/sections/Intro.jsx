@@ -14,7 +14,7 @@ const Intro = () => {
         
           <div className=" max-w-xl">
           <p className="font-medium font-sushi-one text-3xl text-black  py-2">
-        Sushi Cat: The cutest meme coin on Solana, serving up sushi-inspired crypto fun!
+        CatHat: The cutest meme coin on Solana, serving up sushi-inspired crypto fun!
         </p>
            <h1 className=" text-2xl py-3  font-sushi-one text-black  font-medium">
            1. Sushi NFTs: Dive into a world of digital sushi art with our exclusive collection of Sushi NFTs. Rare and delicious – just like the real thing!

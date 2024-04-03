@@ -16,7 +16,7 @@ function Navbar() {
             alt=""
           />
 
-          <p className=" text-3xl font-medium font-sushi-one">Sushi Cat</p>
+          <p className=" text-3xl font-medium font-sushi-one">CatHat</p>
         </div>
 
         <div
