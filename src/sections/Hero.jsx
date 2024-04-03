@@ -26,12 +26,12 @@ function Hero() {
 
               <div className=" py-2">
                 <a
-                  href="https://solscan.io/token/Ft5kV9VpmNuFawoGLhbHKTsWDUKUraa43GKdQBf8zdV3"
+                  href="https://solscan.io/token/AtWjUVrzT6pqW4TDBdCezmfZgoMgN2MJNjm2RNs9JTpg"
                   target="_blank"
                   className="my-2 flex justify-start text-base  text-black  sm:text-xl"
                 >
                   {" "}
-                  Contract : Ft5kV9VpmNuFawoGLhbHKTsWDUKUraa43GKdQBf8zdV3
+                  Contract : AtWjUVrzT6pqW4TDBdCezmfZgoMgN2MJNjm2RNs9JTpg
                 </a>
               </div>
               <div className="relative z-40 flex items-center justify-start my-4 max-sm:flex-col max-sm:space-y-4 sm:space-x-5">
