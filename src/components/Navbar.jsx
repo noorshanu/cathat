@@ -70,7 +70,7 @@ function Navbar() {
 
         <div className="flex items-center space-x-6">
           <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-            <a target="_blank" href="#" className="text-black">
+            <a target="_blank" href="https://x.com/CatHat_1" className="text-black">
               <FaTwitter />
             </a>
             <a target="_blank" href="https://t.me/cathatso" className=" text-black">
